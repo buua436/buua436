@@ -3,7 +3,7 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=buua436&show_icons=true&theme=default)
 ## 📈 Activity Graph
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=buua436&count_private=true&area=true&days=30&theme=nightowl" width="100%">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=buua436&count_private=true&area=true&days=30&bg_color=F5FAF8&color=1CB596&line=1CB596&area_color=72E9D1&point=168D75" width="100%">
 </p>
 <!--
 **buua436/buua436** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
