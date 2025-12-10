@@ -1,6 +1,6 @@
 ## Hi there,I'm buua436 👋
 ## 🏆 My GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=buua436&show_icons=true&theme=default)
+![Your GitHub stats](https://github-readme-stats-six-rho-74.vercel.app/api?username=buua436&show_icons=true&ring_color=1CB596&icon_color=1CB596&bg_color=F5FAF8&title_color=1CB596&text_color=168D75&hide_border=true)
 ## 📈 Activity Graph
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=buua436&count_private=true&area=true&days=30&bg_color=F5FAF8&color=1CB596&line=1CB596&area_color=72E9D1&point=168D75" width="100%">
