@@ -1,21 +1,13 @@
-## Hi there,I'm buua436 👋
-## 🏆 My GitHub Stats:
-![Your GitHub stats](https://github-readme-stats-six-rho-74.vercel.app/api?username=buua436&show_icons=true&ring_color=1CB596&icon_color=1CB596&bg_color=F5FAF8&title_color=1CB596&text_color=168D75&hide_border=true)
-## 📈 Activity Graph
+## 👋 Hi there, I'm buua436!
+
+## 🏆 My GitHub Stats
+
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=buua436&count_private=true&area=true&days=30&bg_color=F5FAF8&color=1CB596&line=1CB596&area_color=72E9D1&point=168D75" width="100%">
+  <img src="https://github-readme-stats-six-rho-74.vercel.app/api?username=buua436&show_icons=true&ring_color=1CB596&icon_color=1CB596&bg_color=F5FAF8&title_color=1CB596&text_color=168D75&hide_border=true">
 </p>
-<!--
-**buua436/buua436** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 📈 Activity Graph
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/buua436/buua436/output/activity-graph.svg" width="100%">
+</p>
